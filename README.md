@@ -13,11 +13,10 @@
   <img align="right" alt="Coding" width="250" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif">
   
   <p align="left" style="margin-left: 20px; line-height: 1.6;">
-    • 🌱 Leaner at 42 Paris.</br>
-    • 🔭 <a href="https://arthur-portfolio.com/?utm_source=github&utm_medium=repository&utm_campaign=portfolio&utm_content=readme_link">Discover my portfolio</a></br>
-    • ⚡ Fun fact: I like durian.</br></br>
+    • 🔭 Leaner at 42 Paris.</br>
+    • ⚡ Fun fact : I hate fun fact.</br></br>
     Feel free to reach me out.</br>
-    • 📧 <a href="mailto:your.email@gmail.com">By Email</a></br>
+    • 📧 <a href="mailto:dasindres@gmail.com">By Email</a></br>
     • 👔 <a href="https://www.linkedin.com/in/arthurbernard92/">Via LinkedIn</a></br>
   </p>
 </div>
@@ -31,11 +30,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cpp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
   
 </div>
@@ -45,11 +43,11 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/TuroTheReal/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=minishell&theme=radical" alt="minishell" />
+  <a href="https://github.com/Diegosdrs/transcendence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=transcendence&theme=radical" alt="transcendence" />
   </a>
-  <a href="https://github.com/TuroTheReal/inception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TuroTheReal&repo=inception&theme=radical" alt="inception" />
+  <a href="https://github.com/Diegosdrs/Piscine-machine-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=Piscine-machine-learning&theme=radical" alt="Piscine-machine-learning" />
   </a>
 </div>
 </br>
@@ -58,5 +56,5 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuroTheReal&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdrs&theme=radical" alt="Top Languages"/>
 </div>
