@@ -17,7 +17,7 @@
     • ⚡ Fun fact : I hate fun fact.</br></br>
     Feel free to reach me out.</br>
     • 📧 <a href="mailto:dasindres@gmail.com">By Email</a></br>
-    • 👔 <a href="https://www.linkedin.com/in/diego-sindres-909925378/">Via LinkedIn</a></br>
+    • 👔 <a href="www.linkedin.com/in/diego-sindres/">Via LinkedIn</a></br>
   </p>
 </div>
 </br>
