@@ -43,8 +43,8 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/Diegosdrs/transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=transcendence&theme=radical" alt="transcendence" />
+  <a href="https://github.com/Diegosdrs/ft_linear_regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=transcendence&theme=radical" alt="ft_linear_regression" />
   </a>
   <a href="https://github.com/Diegosdrs/Piscine-machine-learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=Piscine-machine-learning&theme=radical" alt="Piscine-machine-learning" />
