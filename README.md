@@ -47,7 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=ft_linear_regression&theme=radical" alt="ft_linear_regression" />
   </a>
   <a href="https://github.com/Diegosdrs/Piscine-machine-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=Piscine-machine-learning&theme=radical" alt="Piscine-machine-learning" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diegosdrs&repo=Data_Engineering_ETL&theme=radical" alt="Data_Engineering_ETL" />
   </a>
 </div>
 </br>
